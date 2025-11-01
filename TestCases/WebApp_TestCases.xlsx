@@ -1,0 +1,11 @@
+QA-Portfolio/
+│
+├─ README.md
+├─ TestCases/
+│   ├─ WebApp_TestCases.xlsx
+│   └─ API_TestCases.xlsx
+├─ BugReports/
+│   ├─ WebApp_Bugs.md
+│   └─ API_Bugs.md
+└─ Scripts/
+    └─ joke_code.py   
